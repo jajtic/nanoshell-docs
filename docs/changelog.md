@@ -1,5 +1,3 @@
 # Version history / Changelog
 
-| Version | Date | Changes |
-| :------ | :--: | ------: |
-|         |      |         |
+**Will be added soon!**
