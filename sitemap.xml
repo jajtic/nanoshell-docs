@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://jajtic.github.io/nanoshell-docs/</loc>
+         <lastmod>2025-03-28</lastmod>
+    </url>
+    <url>
+         <loc>https://jajtic.github.io/nanoshell-docs/changelog/</loc>
+         <lastmod>2025-03-28</lastmod>
+    </url>
+    <url>
+         <loc>https://jajtic.github.io/nanoshell-docs/installing_nanoshell/</loc>
+         <lastmod>2025-03-28</lastmod>
+    </url>
+    <url>
+         <loc>https://jajtic.github.io/nanoshell-docs/installing_uninstalling_addons/</loc>
+         <lastmod>2025-03-28</lastmod>
+    </url>
+    <url>
+         <loc>https://jajtic.github.io/nanoshell-docs/Creating%20addons%20for%20Nanoshell/essentials/</loc>
+         <lastmod>2025-03-28</lastmod>
+    </url>
+    <url>
+         <loc>https://jajtic.github.io/nanoshell-docs/Creating%20addons%20for%20Nanoshell/using_coloramasetup/</loc>
+         <lastmod>2025-03-28</lastmod>
+    </url>
+    <url>
+         <loc>https://jajtic.github.io/nanoshell-docs/Creating%20addons%20for%20Nanoshell/using_nslib/</loc>
+         <lastmod>2025-03-28</lastmod>
+    </url>
+</urlset>
